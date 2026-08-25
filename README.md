@@ -40,7 +40,7 @@
 ---
 
 ## 📫 Vamos nos conectar!
-- **LinkedIn:** brunoleonardosilveira
+- **LinkedIn:** https://www.linkedin.com/in/brunoleonardosilveira/
 - **E-mail:** brunoleonardo.silveira20@gmail.com
   
 
