@@ -36,14 +36,6 @@
 - 🗄️ Modelagem e Otimização de Bancos de Dados
 - 🔒 Fundamentos de Segurança da Informação
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radial" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radial" alt="Linguagens Mais Utilizadas" width="48%" />
-</div>
 
 ---
 
